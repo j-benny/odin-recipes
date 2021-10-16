@@ -1,0 +1,3 @@
+Project#1
+ODIN RECEPIES---
+This is officaillly my first project from The Odin Project's website. I understand we are not to be too concerned with the looks of this webspage because we have not yet covered CSS. Being that this project is based only on HTML, I dont expect a flashy web page. however, I do expect I will learn a great deal while completing this project. I am excited to apply all the HTML knowledge I have recently picked up. Thank you The Odin Project. 
